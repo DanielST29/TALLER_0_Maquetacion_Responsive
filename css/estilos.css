@@ -1,10 +1,10 @@
-@media screen  and (max-width: 968px) {
+@media screen and (max-width: 968px) {
   .logo {
     padding: 1rem;
   }
 
   .menuLi {
-    display: none;  
+    display: none;
   }
 }
 @media screen and (min-width: 968px) {
@@ -57,10 +57,8 @@ nav {
 }
 
 .menu i {
-  color: var(--blanco)
+  color: var(--blanco);
 }
-
-
 
 .logo img {
   width: 50%;
@@ -73,7 +71,6 @@ nav {
   flex-direction: row;
   align-items: center;
 }
-
 
 .item {
   padding: 1rem;
@@ -99,11 +96,11 @@ nav ul li {
 }
 
 nav a:hover {
-  color: var(--azuloscuro)
+  color: var(--azuloscuro);
 }
 
 .navbar-button:hover {
-  background-color: var(--azulclaro)
+  background-color: var(--azulclaro);
 }
 
 h1,
